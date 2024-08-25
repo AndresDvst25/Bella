@@ -1,0 +1,56 @@
+---Clases Paso a Paso---
+
+1.Conceptos de Programacion: https://www.youtube.com/watch?v=5iT4JNX8KyE&pp=ygUhY29uY2VwdG9zIGJhc2ljb3MgZGUgcHJvZ3JhbWFjaW9u
+
+2.Logica de Programacion: https://www.youtube.com/watch?v=SwotuYiD4LA&list=PL6_-QWg-BIvHIEs83CIqpB7IWlLktIClc
+
+3.Diagramas de Flujo: https://www.youtube.com/watch?v=Tu9OQSff-gw&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa
+                      https://www.youtube.com/watch?v=YM2BLMnr0yI&pp=ygUYY3Vyc28gZGlhZ3JhbWFzIGRlIGZsdWpv
+
+4.Respositorios & GIT: https://www.youtube.com/watch?v=9ZJ-K-zk_Go&pp=ygUWY3Vyc29zIGRlIHJlcG9zaXRvcmlvcw%3D%3D
+                       https://www.youtube.com/watch?v=3GymExBkKjE&t=8547s&pp=ygURY29tbyB1c2FyIGdpdCBodWI%3D
+
+5.Tipos de Lenguajes: https://www.youtube.com/watch?v=9YUjXYaimVQ&pp=ygUhdGlwb3MgZGUgbGVuZ3VhamUgZGUgcHJvZ3JhbWFjaW9u
+
+6.Uso de Lenguajes: https://www.youtube.com/watch?v=pqfAvZC5clw&pp=ygUkdXNvIGRlIGNhZGEgbGVuZ3VhamUgZGUgcHJvZ3JhbWFjaW9u
+
+7.Linux: https://www.youtube.com/watch?v=L906Kti3gzE&pp=ygUOY3Vyc28gZGUgbGludXg%3D
+
+8.Base de Datos: https://www.youtube.com/watch?v=YL98fk1pE6Q&list=PLmIB7uA74Vvaub8PVR2Tj3B6_Wq1wr21Y
+
+9.Lenguajes:
+
+        Python: https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=17s&pp=ygUMY3Vyc28gcHl0aG9u
+                https://www.youtube.com/watch?v=_y9qQZXE24A&pp=ygUUY3Vyc28gcHl0aG9uIGJhY2tlbmQ%3D
+                https://www.youtube.com/watch?v=n2YrGsXJC6Y&pp=ygUWY3Vyc28gcHl0aG9uIGZyb250ZW5kIA%3D%3D
+                https://www.youtube.com/watch?v=NZuNy3TzTSU&pp=ygUbY3Vyc28gYXV0b21hdGl6YWNpb24gcHl0aG9u
+                https://www.youtube.com/watch?v=T1intZyhXDU&t=40s&pp=ygUPY3Vyc28gZGUgZGphbmdv
+
+        
+        SQL: https://www.youtube.com/watch?v=DFg1V-rO6Pg&t=12504s&pp=ygUSc3FsIGN1cnNvIGNvbXBsZXRv
+
+
+        MYSQL: https://www.youtube.com/watch?v=96s2i-H7e0w&t=71s&pp=ygUOY3Vyc28gZGUgbXlzcWw%3D
+
+
+        C#: https://www.youtube.com/watch?v=TqiysLEBZo4&t=200s&pp=ygUMY3Vyc29zIGRlIGMj
+            https://www.youtube.com/watch?v=Zn7pzMMfzXg&list=PLkVpKYNT_U9c9IW9w-gUuTTCzYZxTy1ti
+            https://www.youtube.com/watch?v=16N5OhcrLws&list=PLx2nia7-PgoDptcrh4k4ZStjpVLZbS7rU
+
+
+        Java: https://www.youtube.com/watch?v=BdNqW63ZaB0&pp=ygUNY3Vyc28gZGUgamF2YQ%3D%3D
+              https://www.youtube.com/watch?v=mobv4vSSAmU&list=PLCIjncxyvEHbSAhlMhSrMROJtg1s_tlG8
+              https://www.youtube.com/watch?v=gEJcMrk3E-Q&list=PLgqdACsQ8US2DCzQVrdZDZCTtTFHMY0as
+              https://www.youtube.com/watch?v=4Dko5W96WHg&pp=ygUPY3Vyc28gZGUgZG9ja2Vy
+              https://www.youtube.com/watch?v=iFDQ3NFs95M&list=PLDbrnXa6SAzUsLG1gjECgFYLSZDov09fO
+
+
+        JavaScript: https://www.youtube.com/watch?v=z95mZVUcJ-E&t=6339s
+                    https://www.youtube.com/watch?v=1hpc70_OoAg&t=7897s&pp=ygUPY3Vyc28gZGUgbm9kZWpz
+                    https://www.youtube.com/watch?v=JmJ1WUoUIK4&pp=ygUTY3Vyc28gZGUgZXhwcmVzcyBqcw%3D%3D
+                    https://www.youtube.com/watch?v=7iobxzd_2wY&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29
+                    https://www.youtube.com/watch?v=f7unUpshmpA&pp=ygUSYW5ndWxhciBkZXNkZSBjZXJv
+                    https://www.youtube.com/watch?v=PL-aTHv2L3E&list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT
+
+
+
